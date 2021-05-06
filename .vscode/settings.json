@@ -5,6 +5,17 @@
         "*.tcc": "cpp",
         "bitset": "cpp",
         "random": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "cmath": "cpp",
+        "istream": "cpp",
+        "chrono": "cpp",
+        "condition_variable": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "mutex": "cpp",
+        "shared_mutex": "cpp",
+        "streambuf": "cpp",
+        "thread": "cpp"
     }
 }
